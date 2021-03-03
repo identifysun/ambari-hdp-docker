@@ -52,3 +52,7 @@ curl -H "X-Requested-By: ambari" -X POST -u admin:admin http://<AMBARHOST>:8080/
 
 Admin/Database password for all services is `hadoop`
 
+## Reference
+
+* https://docs.cloudera.com/HDPDocuments/Ambari-2.4.3.0/bk_ambari-installation/content/hdp_23_repositories.html
+* https://docs.cloudera.com/HDPDocuments/Ambari-2.6.0.0/bk_ambari-installation/content/ambari_repositories.html
